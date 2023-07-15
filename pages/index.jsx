@@ -53,7 +53,7 @@ const Index = () => {
                 <div className="description">
                   <div>
                     <h4>
-                      Contract : TBA
+                      Contract : 0x7e23a9775a9cce48e180d5692b179d38815e5d69
                     </h4>
                   </div>
                   <div className="social-links">
